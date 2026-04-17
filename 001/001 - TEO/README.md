@@ -4,7 +4,7 @@
 **2do año — 1er cuatrimestre 2026**
 
 ## 📖 Qué es este repositorio
- 
- Este repositorio contiene los notebooks de laboratorio de la materia.
- ---
 
+Este repositorio contiene los cuadernos y materiales usados en teóricos
+
+---
