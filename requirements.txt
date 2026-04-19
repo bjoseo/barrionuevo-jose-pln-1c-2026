@@ -16,6 +16,7 @@ numpy
 # --- Web scraping ---
 requests
 beautifulsoup4
+lxml_html_clean
 trafilatura
 scrapling[all]>=0.4.2
 playwright
