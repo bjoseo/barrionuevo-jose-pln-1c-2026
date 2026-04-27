@@ -23,4 +23,18 @@ Este repositorio contiene los ejercicios de laboratorio que el docente solicita 
 
 > 007_Audio_Transcrip_practico_02.ipynb (google colab)
 
+> ## Proyecto final agenda de medios
+
+> 009_Proyecto_Final_Agenda_Medios.ipynb (google colab)
+>
+> Consignas:
+
+```
+            Carga y Exploración del Corpus
+            Visualización Temática de Agenda Periodística
+            Pesos del Lenguaje (Redes Léxicas)
+            Dashboard Dinámico de Sentido con Gradio
+
+```
+
 ---
